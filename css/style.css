@@ -1,0 +1,73 @@
+h1 {
+color:black;
+background-color:tan;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.planet_name {
+color: black;
+font-variant:inherit;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: large;
+text-align: left;
+
+}
+
+#ura {
+padding: 5px;
+border: 50px;
+background-color:grey;
+}
+#jup {
+padding: 5px;
+border: 50px;
+background-color:grey;
+}
+
+#nep {
+padding: 5px;
+border: 50px;
+background-color:dimgray;
+}
+#sat {
+padding: 5px;
+border: 50px;
+background-color:grey;
+}
+.images_text {
+font-size: larger;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 500;
+font-style: italic;
+}
+.title {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: underline;
+text-align: center;
+}
+td {
+color:white;
+}
+table {
+border-collapse: collapse;
+width: 100%;
+}
+th, td {
+padding: 8px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+}
+th {
+background-color: #f2f2f2;
+}
+body
+{
+background:black;
+}
+tr {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
